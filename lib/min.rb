@@ -11,6 +11,5 @@ groceries = {
 def get_the_min(groceries)
   #code your solution here!
   groceries.min
-  binding.pry
-  groceries.values.flatten.min
+  # groceries.values.flatten.min
 end
